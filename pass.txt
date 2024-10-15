@@ -1,0 +1,5 @@
+hl1o37TrtQadERMz => password for DB Dinamo
+
+mongodb+srv://mahmoudelgyuoshy:hl1o37TrtQadERMz@dinamo.s5vxo.mongodb.net/?retryWrites=true&w=majority&appName=DINAMO
+
+K67Gbhf0u2r3AKyj
